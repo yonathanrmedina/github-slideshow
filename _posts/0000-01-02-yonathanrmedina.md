@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to out second slide!"
 ---
-Your text
+"Hope is a dangerous thing"
 Use the left arrow to go back!
